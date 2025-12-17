@@ -5,8 +5,8 @@ class Program
   { 
     Greet(); 
   } 
-  static void Greet() 
+  static void Greet()
   { 
-  Console.WriteLine("Hello from feature2!"); 
+    Console.WriteLine("Goodbye ewerybody!!!"); 
   } 
 } 
