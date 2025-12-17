@@ -7,10 +7,6 @@ class Program
   } 
   static void Greet()
   { 
-<<<<<<< HEAD
-  Console.WriteLine("Goodbye ewerybody!!!"); 
-=======
-  Console.WriteLine("Hello from feature2!"); 
->>>>>>> origin/Task3
+    Console.WriteLine("Goodbye ewerybody!!!"); 
   } 
 } 
