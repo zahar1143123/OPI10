@@ -4,9 +4,10 @@ class Program
   static void Main() 
   { 
     Greet(); 
+        Greet(); 
   } 
   static void Greet() 
-  static void Greet() 
+  static void Greet()
   { 
   Console.WriteLine("Hello from feature1!"); 
   } 
